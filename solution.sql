@@ -14,4 +14,4 @@ phonellumber numeric(30)
 
 );
 
-dest Student;
+desc Student;
