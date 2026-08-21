@@ -1,6 +1,6 @@
 create database acadamicDB;
 
-USE acadamicoв;
+USE acadamicDB;
 
 CREATE TABLE Student (Stuent ID numeric()primary key, studentName varchar(50), DOB date, gender varchar(18), department ID
 
@@ -13,3 +13,4 @@ Email varchar(10),
 phonellumber numeric(30)
 
 );
+desc Student;
