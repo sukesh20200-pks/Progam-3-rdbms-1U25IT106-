@@ -13,5 +13,3 @@ Email varchar(10),
 phonellumber numeric(30)
 
 );
-
-desc Student;
